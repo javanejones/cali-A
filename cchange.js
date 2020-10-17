@@ -90,8 +90,8 @@ var data2 = [trace2];
 var layout2 = {
   title: "Number of Fires per California County (2019)",
   xaxis: {
-    title: "counties",
-    showticklabels: false
+   
+    showticklabels: true
   },
   yaxis: {title: "Number of Fires Recorded"}
 };
